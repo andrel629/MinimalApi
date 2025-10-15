@@ -37,3 +37,9 @@ C:\Users\andre\Documents\ProjetosDNet\MinimalApi\Minimal\bin\Debug\net9.0\Pomelo
 C:\Users\andre\Documents\ProjetosDNet\MinimalApi\Minimal\bin\Debug\net9.0\System.CodeDom.dll
 C:\Users\andre\Documents\ProjetosDNet\MinimalApi\Minimal\obj\Debug\net9.0\Minimal.csproj.AssemblyReference.cache
 C:\Users\andre\Documents\ProjetosDNet\MinimalApi\Minimal\obj\Debug\net9.0\Minimal.csproj.Up2Date
+C:\Users\andre\Documents\ProjetosDNet\MinimalApi\Minimal\obj\Debug\net9.0\Minimal.sourcelink.json
+C:\Users\andre\Documents\ProjetosDNet\MinimalApi\Minimal\obj\Debug\net9.0\Minimal.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\andre\Documents\ProjetosDNet\MinimalApi\Minimal\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\Users\andre\Documents\ProjetosDNet\MinimalApi\Minimal\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\andre\Documents\ProjetosDNet\MinimalApi\Minimal\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\andre\Documents\ProjetosDNet\MinimalApi\Minimal\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
